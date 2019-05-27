@@ -1,0 +1,1 @@
+module.exports = props => `the temperature in Celsius is ${((props.tempFar) - 32) * 5 / 9}`

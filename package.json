@@ -1,0 +1,11 @@
+{
+  "name": "eden-very-cool-component",
+  "version": "0.1.0",
+  "description": "a cool component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eden Yeung",
+  "license": "MIT"
+}
