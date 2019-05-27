@@ -1,6 +1,6 @@
 {
   "name": "eden-very-cool-component",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "a cool component",
   "main": "index.js",
   "scripts": {
