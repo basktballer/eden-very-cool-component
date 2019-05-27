@@ -1,7 +1,8 @@
 Usage
 
 ```
-import 'Cool-Component' from eden-very-cool-component
+import 'CoolComponent' from eden-very-cool-component
 
-<Cool-Component tempFar=32>
+<CoolComponent tempFar={32}>
 ```
+
