@@ -1,12 +1,15 @@
 {
   "name": "eden-very-cool-component",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "a cool component",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "git": "https://github.com/basktballer/eden-very-cool-component",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/basktballer/eden-very-cool-component.git"
+  },
   "author": "Eden Yeung",
   "license": "MIT"
 }
